@@ -20,4 +20,4 @@ Every row in the data corresponds to packet, there is a label for each packet wh
 2. Video_id – Unique identifier for each video playing. In the example above of same video different resolutions, the identifier is different unlike url_id. Note you cannot use the video_id as a feature. Finally, you should generate a prediction per video_id. 
 
 ### Labels 
-1. Resolution – The video resolution: 0=360p, 1=480p, 2=720p, 3=180p 
+1. Resolution – The video resolution: 0=360p, 1=480p, 2=720p, 3=1080p 
